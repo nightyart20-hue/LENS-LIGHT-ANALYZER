@@ -1,0 +1,5 @@
+{
+  "name": "Lens & Light Analyzer",
+  "description": "Professional photo analysis tool that breaks down images into lens characteristics, atmosphere, geometry, and optical properties using Gemini AI.",
+  "requestFramePermissions": []
+}
